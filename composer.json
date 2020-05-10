@@ -1,6 +1,6 @@
 {
-    "name":"homeWork/Locator",
-    "description":"The PHP ",
+    "name":"ospu/Locator",
+    "description":"The PHP",
     "type":"library",
     "autoload":{
         "psr-4":{
